@@ -1,2 +1,2 @@
-This is another program
-Git Tutorial
+This is another class
+Progamming Tutorial
